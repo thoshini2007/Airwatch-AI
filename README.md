@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AirWatch AI - Delhi-NCR Pollution Monitoring Platform
 
 A comprehensive AI-powered air quality monitoring, forecasting, and policy recommendation platform specifically designed for Delhi-NCR region. This platform addresses the complex, episodic, and seasonal nature of pollution in the region through advanced AI/ML models, satellite data integration, and real-time policy analytics.
@@ -181,3 +182,6 @@ For support and questions:
 ---
 
 **AirWatch AI** - Empowering Delhi-NCR with data-driven air quality solutions through advanced AI and comprehensive monitoring.
+=======
+# Airwatch-AI
+>>>>>>> f6509f29ec81c15038b9afe88d0e7aea307199c2
